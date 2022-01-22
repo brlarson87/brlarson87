@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brlarson87
+- 👋 Hi, I’m Blake
 - 👀 I’m interested in all things web develpoment
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on creative React/React Native applications
